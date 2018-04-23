@@ -7,7 +7,7 @@ This repository contains a readme file and an assets folder. Within the assets f
 - R10252_topo.json (converted R10252.geojson to topojson)
 
 
-### 
+The R10252 is a wildfire identification number, and the files shared here are the wildfire perimeter for fire number R10252. 
 
 | File                  | Size   |
 | --------------------- | ------ |

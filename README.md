@@ -1,0 +1,1 @@
+# geog572.quiz3.taluccia
